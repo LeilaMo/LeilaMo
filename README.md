@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Leila Mohammadzadeh
+- 👋 Hi, I’m Leila
 - 👀 I’m interested in Machine Learning and Chemi/Bio Informatics
-- 🌱 I’m currently working as a Data Science intern at ZHAW
 - 💞️ My current project is "Identification of Apple Varieties Using Machine Learning Methods"
 - 📫 How to reach me: mohammadzadeh.leila@gmail.com
 - ✨ My Linkedin profile: https://www.linkedin.com/in/leila-mohammadzadeh-16ba6254/
