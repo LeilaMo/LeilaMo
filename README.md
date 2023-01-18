@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Leila
 - 👀 I’m interested in Machine Learning and Chemi/Bio Informatics
-- 💞️ My current project is "Identification of Apple Varieties Using Machine Learning Methods"
 - 📫 How to reach me: mohammadzadeh.leila@gmail.com
-- ✨ My Linkedin profile: https://www.linkedin.com/in/leila-mohammadzadeh-16ba6254/
+- ✨ Linkedin profile: https://www.linkedin.com/in/leila-mohammadzadeh-16ba6254/
